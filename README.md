@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasper-lov
 - 👀 I’m interested in all things computers!
-- 🌱 I’m currently learning Operating Systems, Computer Organization and am always working on my Algorithims.
+- 🌱 I’m currently learning Operating Systems, Computer Organization, and of course Algorithims!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : jasperalov@gmail.com
 
