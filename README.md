@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jasper Loverude</h1>
-<h3 align="center">A creative backend developer from Waterville, Maine.</h3>
+<h1 align="center">Hi 👋, I'm Jasper </h1>
+<h3 align="center"> and here's what I'm all about </h3>
 
 <p align="center">
 
