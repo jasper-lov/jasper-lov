@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons in New England (USA)**
 
-- 💬 Ask me about **Hackathons!**
+- 💬 Ask me about **Colby Hackers!**
 
 - 📫 How to reach me **jalove24@colby.edu**
 
