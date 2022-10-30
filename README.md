@@ -11,7 +11,7 @@
 (Can you guess what my favorite language is?)
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasper-loverude&label=Profile%20views&color=0e75b6&style=flat" alt="jasper-loverude" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasper-lov&label=Profile%20views&color=0e75b6&style=flat" alt="jasper-loverude" /> </p>
 
 - 🔭 I’m currently working on a [Bantam Java compiler](https://github.com/jasper-loverude/project-bantam)
 
