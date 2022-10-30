@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Colby Hackers!**
 
-- 📫 How to reach me **jalove24@colby.edu**
+- 📫 Reach me at **jasperalov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
