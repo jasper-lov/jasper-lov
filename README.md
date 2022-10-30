@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasper </h1>
-<h3 align="center"> and here's a bit about me </h3>
+<h3 align="center"> and here's a little bit about me </h3>
 
 <p align="center">
 
