@@ -15,8 +15,6 @@
 
 - 🔭 I’m currently working on a [Bantam Java compiler](https://github.com/jasper-loverude/project-bantam)
 
-- 🌱 I’m currently learning **Compilers, Software Engineering**
-
 - 👯 I’m looking to collaborate on **Hackathons in New England (USA)**
 
 - 💬 Ask me about **Colby Hackers!**
