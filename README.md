@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasper </h1>
-<h3 align="center"> and welcome to my GitHub! </h3>
+<h3 align="center"> welcome to my GitHub! </h3>
 
 <p align="center">
 
