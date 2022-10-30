@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasper-lov&label=Profile%20views&color=0e75b6&style=flat" alt="jasper-loverude" /> </p>
 
-- 🔭 I’m currently working on Colby's [Athlete Management System!](https://github.com/enjoythecode/scrum-wizards-cs321)
+- 🔭 I’m currently working on [Colby's Athlete-Management System!](https://github.com/enjoythecode/scrum-wizards-cs321)
 
 - 👯 I’m looking to collaborate on **Hackathons in New England (USA)**
 
