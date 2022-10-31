@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-(Can you guess what my favorite language is...?)
+(Can you guess what my favorite language is?)
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasper-lov&label=Profile%20views&color=0e75b6&style=flat" alt="jasper-loverude" /> </p>
