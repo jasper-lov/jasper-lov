@@ -17,7 +17,7 @@
 
 - 🍂 I’m looking to collaborate on **Hackathons in New England (USA)**
 
-- 💬 Ask me about **Colby Hackers!**
+- 💬 I'm the current president of **Colby Hackers-** lets talk if you're interested in joining one of our projects!
 
 - 📫 Reach me at **jasperalov@gmail.com**
 
